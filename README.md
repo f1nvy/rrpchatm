@@ -2,6 +2,6 @@
 
 rRPChatM - Modified version of rRPChatM
 
-Just some new commands
+Just a few new commands
 
 GlobalMe, GlobalDo, GlobalTry
