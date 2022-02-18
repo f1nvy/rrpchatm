@@ -1,0 +1,6 @@
+name: RRPChatM
+version: '${project.version}'
+main: ff1nvy.dev.rrpchatm.Core
+api-version: 1.18
+authors: [ omashune, ff1nvy ]
+description: Plugin that adds RP commands (rev)
