@@ -1,6 +1,6 @@
-## rrpchatm
+## rRPChatM
 
-#rRPChatM - Modified version of rRPChatM
+rRPChatM - Modified version of rRPChatM
 
 Just some new commands
 
