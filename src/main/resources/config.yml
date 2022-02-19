@@ -43,8 +43,24 @@ commands:
     radius: 20
     obverse: '§6Орел'
     reverse: '§6Решка'
+  gcoin:
+    enabled: true
+    format: '§8*§6 %sender% §fподбросил монетку (§6%result%§f) §8'
+    obverse: '§6Орел'
+    reverse: '§6Решка'
   whisper:
     enabled: true
     format: '§7§o%sender% шепчет: %message%'
     usage: '[§c!§f] §cИспользуй: /whisper <сообщение>'
     radius: 4
+  dice:
+    enabled: true
+    format: '§8*§6 %sender% §fвыбросил §6%result%§f на кубике §8'
+    radius: 20
+    max_value: 17
+    min_value: 6
+  gdice:
+    enabled: true
+    format: '§c*§6 %sender% §fвыбросил §6%result%§f на кубике §8'
+    max_value: 24
+    min_value: 1

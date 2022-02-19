@@ -21,9 +21,12 @@ public final class Core extends JavaPlugin {
                 .register(new GlobalMeCommand())
                 .register(new TryCommand())
                 .register(new DoCommand())
+                .register(new DiceCommand())
+                .register(new GlobalDiceCommand())
                 .register(new GlobalDoCommand())
                 .register(new GlobalTryCommand())
                 .register(new CoinCommand())
+                .register(new GlobalCoinCommand())
                 .register(new WhisperCommand());
     }
 
