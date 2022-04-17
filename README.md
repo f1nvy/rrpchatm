@@ -1,5 +1,5 @@
 ## rRPChatM
 
-rRPChatM - Modified version of rRPChatM
+rRPChatM - Modified version of RPChat
 
 Global-chat edits
